@@ -17,7 +17,7 @@ Módulo prático de HTML e CSS do curso FullStack, promovido pela Rocketseat par
 <br>
 
 <p align="center">
-  <img alt="formúlario" src="https://github.com/diebarros/Formulario-de-matricula/blob/main/assets/Thumbnail.png>
+  <img alt="Travelgram" src="https://github.com/diebarros/Portfolio-Dev/blob/main/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Formulário de matricula tem como objetivo a fixar o conteúdo de formulários através do curso Fullstack da Rocketseat.
+O formulário de matricula tem como objetivo a fixação do conteudo estudado através do curso Fullstack da Rocketseat.
 
 
 ## :memo: Licença
